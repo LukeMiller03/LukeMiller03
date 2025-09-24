@@ -15,7 +15,7 @@
 ## Python Projects 
 - [College Rankings Analysis](https://github.com/LukeMiller03/college-rankings-analysis) — Regression + visualization
 - [NHL Stats Scraper](https://github.com/LukeMiller03/nhl-stats-scraper) — Selenium pipeline + data cleaning
-- [Computational-Thinking-Projects](ttps://github.com/LukeMiller03/Computational-Thinking-Projects) — Python fundamentals + modular programming
+- [Computational-Thinking-Projects](https://github.com/LukeMiller03/Computational-Thinking-Projects) — Python fundamentals + modular programming
 
 
 ## Orange Workflows

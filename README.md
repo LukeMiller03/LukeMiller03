@@ -17,7 +17,7 @@
 - [NHL Stats Scraper](https://github.com/LukeMiller03/nhl-stats-scraper) — Selenium pipeline + data cleaning 
 
 ## Orange Workflows
-- [Churn Prediction](https://github.com/LukeMiller03/churn-prediction) — Logistic regression + ROC analysis  
+- [Churn Prediction](https://github.com/LukeMiller03/student-habits-academic-performance) — Logistic regression + ROC analysis  
 - [Market Basket Analysis](https://github.com/LukeMiller03/market-basket-analysis) — Association rules  
 
 ---

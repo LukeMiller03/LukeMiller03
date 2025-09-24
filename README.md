@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Luke Miller 👋
+**Business Analytics & Accounting** • Data-driven product & sales insights  
 
-<!--
-**LukeMiller03/LukeMiller03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Currently: Senior at the University of Iowa  
+- 🧰 Skills: Python (pandas, scikit-learn), SQL, Tableau, Excel, Selenium, Orange, Power BI  
+- 💼 Interests: Sales analytics, brand growth, product segmentation  
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/YOUR-LINK) | [Email](mailto:YOUR-EMAIL)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tableau Projects
+- [Sales Segmentation Dashboard](https://github.com/LukeMiller03/sales-segmentation-dashboard) — Tiers 160k SKUs, KPI scorecards, seasonality  
+- [Revenue Forecasting](https://github.com/LukeMiller03/revenue-forecasting) — Time-series dashboard  
+
+## Python Projects
+- [NHL Stats Scraper](https://github.com/LukeMiller03/nhl-stats-scraper) — Selenium pipeline + data cleaning  
+- [College Rankings Analysis](https://github.com/LukeMiller03/college-rankings-analysis) — Regression + visualization  
+
+## Orange Workflows
+- [Churn Prediction](https://github.com/LukeMiller03/churn-prediction) — Logistic regression + ROC analysis  
+- [Market Basket Analysis](https://github.com/LukeMiller03/market-basket-analysis) — Association rules  
+
+---
+
+> I turn messy data into **clear, actionable insights** that support sales, marketing, and operations.

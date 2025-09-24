@@ -21,6 +21,9 @@
 ## Orange Workflows
 - [Student Habits & Academic Performance](https://github.com/LukeMiller03/student-habits-academic-performance) — Logistic regression + ROC analysis for predicting exam success 
 - [Heart Disease Indicator](https://github.com/LukeMiller03/orange-ml-workflow-template) – End-to-end Orange workflow with multiple classifiers and evaluation
+- [Week 11 Assignment](https://github.com/LukeMiller03/orange-week11-lab) — Decision tree classification + tree visualization with accuracy evaluation  
+- [Week 12 Assignment](https://github.com/LukeMiller03/orange-week12-lab) — Logistic regression + ROC curve analysis for model performance  
+- [Midterm Project 2](https://github.com/LukeMiller03/orange-midterm-project2) — Multi-model Orange workflow: decision trees, random forest, logistic regression, and gradient boosting with validation + scoring  
 
 ---
 

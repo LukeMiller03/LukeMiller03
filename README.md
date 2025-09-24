@@ -20,7 +20,7 @@
 
 ## Orange Workflows
 - [Student Habits & Academic Performance](https://github.com/LukeMiller03/student-habits-academic-performance) — Logistic regression + ROC analysis for predicting exam success 
-- [Market Analysis](https://github.com/LukeMiller03/orange-ml-workflow-template) – End-to-end Orange workflow with multiple classifiers and evaluation
+- [Heart Disease Indicator](https://github.com/LukeMiller03/orange-ml-workflow-template) – End-to-end Orange workflow with multiple classifiers and evaluation
 
 ---
 

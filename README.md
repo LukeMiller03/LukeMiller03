@@ -3,7 +3,7 @@
 
 - 🔭 Currently: Senior at the University of Iowa  
 - 🧰 Skills: Python (pandas, scikit-learn), SQL, Tableau, Excel, Selenium, Orange, Power BI  
-- 💼 Interests: Sales analytics, brand growth, product segmentation  
+- 💼 Interests: Sales/Marketing insights, brand growth, product segmentation  
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/luke-miller-47542b221/) | [Email](mailto:lukeaaronmiller@yahoo.com)
 
 ---

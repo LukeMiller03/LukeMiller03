@@ -12,9 +12,9 @@
 - [Sales Segmentation Dashboard](https://github.com/LukeMiller03/sales-segmentation-dashboard) — Tiers 160k SKUs, KPI scorecards, seasonality  
 - [Revenue Forecasting](https://github.com/LukeMiller03/revenue-forecasting) — Time-series dashboard  
 
-## Python Projects
-- [NHL Stats Scraper](https://github.com/LukeMiller03/nhl-stats-scraper) — Selenium pipeline + data cleaning  
-- [College Rankings Analysis](https://github.com/LukeMiller03/college-rankings-analysis) — Regression + visualization  
+## Python Projects 
+- [College Rankings Analysis](https://github.com/LukeMiller03/college-rankings-analysis) — Regression + visualization
+- [NHL Stats Scraper](https://github.com/LukeMiller03/nhl-stats-scraper) — Selenium pipeline + data cleaning 
 
 ## Orange Workflows
 - [Churn Prediction](https://github.com/LukeMiller03/churn-prediction) — Logistic regression + ROC analysis  

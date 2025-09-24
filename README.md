@@ -14,7 +14,9 @@
 
 ## Python Projects 
 - [College Rankings Analysis](https://github.com/LukeMiller03/college-rankings-analysis) — Regression + visualization
-- [NHL Stats Scraper](https://github.com/LukeMiller03/nhl-stats-scraper) — Selenium pipeline + data cleaning 
+- [NHL Stats Scraper](https://github.com/LukeMiller03/nhl-stats-scraper) — Selenium pipeline + data cleaning
+- [Computational-Thinking-Projects](ttps://github.com/LukeMiller03/Computational-Thinking-Projects) — Python fundamentals + modular programming
+
 
 ## Orange Workflows
 - [Student Habits & Academic Performance](https://github.com/LukeMiller03/student-habits-academic-performance) — Logistic regression + ROC analysis for predicting exam success 

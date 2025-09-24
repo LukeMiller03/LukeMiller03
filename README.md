@@ -17,7 +17,7 @@
 - [NHL Stats Scraper](https://github.com/LukeMiller03/nhl-stats-scraper) — Selenium pipeline + data cleaning 
 
 ## Orange Workflows
-- [Student Habits & Academic Performance](https://github.com/LukeMiller03/student-habits-academic-performance) — Logistic regression + ROC analysis  
+- [Student Habits & Academic Performance](https://github.com/LukeMiller03/student-habits-academic-performance) — Logistic regression + ROC analysis for predicting exam success 
 - [Market Basket Analysis](https://github.com/LukeMiller03/market-basket-analysis) — Association rules  
 
 ---

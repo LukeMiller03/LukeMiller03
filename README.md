@@ -1,5 +1,5 @@
-# Hi, I'm Luke Miller 👋
-**Business Analytics & Accounting** • Data-driven product & sales insights  
+# Hi, I'm Luke Miller
+**Business Analytics & Accounting** 
 
 - 🔭 Currently: Senior at the University of Iowa  
 - 🧰 Skills: Python (pandas, scikit-learn), SQL, Tableau, Excel, Selenium, Orange, Power BI  

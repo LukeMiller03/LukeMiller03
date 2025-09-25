@@ -8,10 +8,6 @@
 
 ---
 
-## Tableau Projects
-- [Sales Segmentation Dashboard](https://github.com/LukeMiller03/sales-segmentation-dashboard) — Tiers 160k SKUs, KPI scorecards, seasonality  
-- [Revenue Forecasting](https://github.com/LukeMiller03/revenue-forecasting) — Time-series dashboard  
-
 ## Python Projects 
 - [College Rankings Analysis](https://github.com/LukeMiller03/college-rankings-analysis) — Regression + visualization
 - [NHL Stats Scraper](https://github.com/LukeMiller03/nhl-stats-scraper) — Selenium pipeline + data cleaning
@@ -25,6 +21,11 @@
 - [Week 12 Assignment](https://github.com/LukeMiller03/orange-week12-assignment) — Logistic regression + ROC curve analysis for model performance  
 - [Midterm Project 2](https://github.com/LukeMiller03/orange-midterm-project2) — Multi-model Orange workflow: decision trees, random forest, logistic regression, and gradient boosting with validation + scoring  
 
+
+## Tableau Projects
+- [Sales Segmentation Dashboard](https://github.com/LukeMiller03/sales-segmentation-dashboard) — Tiers 160k SKUs, KPI scorecards, seasonality  
+- [Revenue Forecasting](https://github.com/LukeMiller03/revenue-forecasting) — Time-series dashboard
+  
 ---
 
 > I turn messy data into **clear, actionable insights** that support sales, marketing, and operations.

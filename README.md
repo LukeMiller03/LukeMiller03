@@ -25,6 +25,7 @@
 ## Tableau Projects
 - [Sales Segmentation Dashboard](https://github.com/LukeMiller03/sales-segmentation-dashboard) — Tiers 160k SKUs, KPI scorecards, seasonality  
 - [Revenue Forecasting](https://github.com/LukeMiller03/revenue-forecasting) — Time-series dashboard
+- [Information Visualization](./information-visualization.md) — Design system, KPI cards, small-multiples, seasonality
 - [Writing Assignment #1 - Advanced Managerial](https://
   
 ---

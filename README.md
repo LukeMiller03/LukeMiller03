@@ -7,6 +7,25 @@
 - Reach me: [LinkedIn](https://www.linkedin.com/in/luke-miller-47542b221/) | [Email](mailto:lukeaaronmiller@yahoo.com)
 
 ---
+## BAIS Capstone Dashboard - Van Meter
+
+End-to-end analytics dashboard built for my **Business Analytics & Information Systems (BAIS) capstone**.
+
+Designed to transform operational data into **clear, decision-ready insights** using interactive reporting and business-focused KPIs.
+
+**Tools & Skills**
+- Power BI (Power Query, DAX, data modeling)
+- SQL
+- Excel
+- Python (data cleaning & analysis)
+
+**What this demonstrates**
+- Translating business questions into KPIs  
+- Structuring and modeling real-world data  
+- Building dashboards for leadership use  
+
+**Files**
+- `final dashboard.pbix` – Power BI dashboard
 
 ## Python Projects 
 - [College Rankings Analysis](https://github.com/LukeMiller03/college-rankings-analysis) — Regression + visualization

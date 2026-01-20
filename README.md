@@ -25,7 +25,7 @@ Designed to transform operational data into **clear, decision-ready insights** u
 - Building dashboards for leadership use  
 
 **Files**
-- `final dashboard.pbix` – Power BI dashboard
+- [`final dashboard.pbix`](./final%20dashboard.pbix) — Power BI dashboard
 
 ## Python Projects 
 - [College Rankings Analysis](https://github.com/LukeMiller03/college-rankings-analysis) — Regression + visualization
